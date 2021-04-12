@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1388332705314161500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5087971775037773162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f0d71c511651d44abd97bd14d08b72b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &9135848136498605107
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 515827200843726606, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4059174994691684697, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosiveDie
+      objectReference: {fileID: 0}
+    - target: {fileID: 7282091329405649617, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_Text
+      value: Explosive Dice
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314563310676147417, guid: 30fe0b5220b75544da32bd03904df69b,
+        type: 3}
+      propertyPath: m_Text
+      value: '+10% Critical Strike
+
+        Attack all enemies for 3-5 damage
+
+        If
+        its a critical hit,
+
+        +1 card
+
+        +1 action'
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: -7734365242198057152, guid: 30fe0b5220b75544da32bd03904df69b, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 30fe0b5220b75544da32bd03904df69b, type: 3}
+--- !u!1 &5087971775037773162 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4059174994691684697, guid: 30fe0b5220b75544da32bd03904df69b,
+    type: 3}
+  m_PrefabInstance: {fileID: 9135848136498605107}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,152 @@
+﻿body {
+	background-color: #FCE6F8;
+	display: flex; 
+	justify-content: center;
+}
+
+#bigbox2 {
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+	width: 70%;
+	height: 100%;
+	background-color: #FFF5FD;
+}
+
+
+#bigbox{
+
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	width: 70%;
+	height: 900px;
+	background-color: #FFF5FD;
+
+}
+
+.tabs {
+	display: flex;
+	justify-content: space-around ;
+	background-color: #EFA8E1;
+	width: 100%;
+	height: 100px;
+}
+
+.story {
+	background-color: #EFA8E1;
+	width: 100%;
+	height: 100px;
+	display: flex;
+	justify-content: space-around ;
+}
+
+.tab {
+	padding: 10px;
+	width: 33.3%;
+	height: 100px;
+	font-family: 'Kreon', serif;
+	font-size: 64px;
+	text-align: center;
+	color: white;
+}
+
+.tab:hover {
+	cursor: pointer;
+}
+
+a:hover {
+	color: black;
+}
+
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	color: white;
+}
+
+
+.title {
+	padding: 10px;
+	width: 33.3%;
+	height: 50px;
+	font-family: 'Kreon', serif;
+	font-size: 48px;
+	text-align: center;
+	color: black;
+}
+
+.type {
+	padding: 10px;
+	width: 33.3%;
+	height: 50px;
+	font-family: 'Kreon', serif;
+	font-size: 36px;
+	text-align: center;
+	color: black;
+}
+
+.types {
+	width: 100%;
+	display: flex;
+	display-direction: columns;
+	justify-content: space-around ;
+}
+
+hr {
+	width: 90%;
+	border-width: 4px;
+}
+
+.items{
+	width: 100%;
+	display: flex;
+	justify-content: space-around ;
+}
+
+.cols {
+	display: flex;
+	flex-direction: column;
+	width: 33%
+}
+
+.item {
+	padding: 10px;
+	width: 100%;
+	height: 10px;
+	font-family: 'Kreon', serif;
+	font-size: 18px;
+	text-align: center;
+	color: black;
+}
+
+.prices {
+	width: 100%;
+	display: flex;
+	justify-content: space-around ;
+}
+
+.price{
+	padding: 10px;
+	width: 100%;
+	height: 20px;
+	font-family: 'Kreon', serif;
+	font-size: 24px;
+	text-align: center;
+	color: black;
+}
+
+.map {
+	display: flex;
+	flex-direction: row;
+}
+
+.spacing {
+	width: 100%;
+	height: 30px;
+}
